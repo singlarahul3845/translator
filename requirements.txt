@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.2
 deep-translator==1.11.4
 Flask==3.0.2
-gunicorn==20.2.0
+gunicorn==22.0.0
 
